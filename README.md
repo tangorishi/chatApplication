@@ -1,6 +1,7 @@
 # Chatify😮‍💨
 
-https://github.com/tangorishi/chatApplication/assets/110519406/a967aa86-3aae-40d6-ad8e-834d5897314a
+https://github.com/tangorishi/chatApplication/assets/110519406/a967aa86-3aae-40d6-ad8e-834d5897314a](https://github.com/tangorishi/chatApplication/assets/110519406/b29c1737-05b8-4196-bc5c-5c2500d1de74
+
 
 
 A communication hub that transcends language limitations. Uniting people through instant language translation and interpretation. This platform empowers seamless communication regardless of native tongue enabling effortless collaboration and understanding across cultures.
